@@ -1,0 +1,66 @@
+#skill_hi
+{
+	width: 200px;
+	height: 200px;
+	background-color:blue;
+	border-width:2px;
+	border-style:solid;
+	border-color:cyan;
+	border-radius:20px;
+	padding:30px;
+}
+#skill_bye
+{
+	width:50%;
+	height:50%;
+	background-color:red;
+	border-radius:20px;
+
+}
+#skill_low
+{
+	width:200px;
+	height:200px;
+	background-color:purple;
+	margin:10px;
+}
+#skill_high
+{
+	text-transform:uppercase;
+	font-family:serif;
+	color:blue;
+	text-decoration:overline;
+	font-style:italic;
+}
+#skill_up
+{
+	height:200px;
+	width:500px;
+	background-image:url("images/lpu.png");
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#div1
+{
+height:200px;
+width:200px;
+background-color:cyan;
+}
+
+#div2
+{
+height:200px;
+width:200px;
+background-color:green;
+margin-left:-4px;
+}
+
+span
+{
+	display:block;
+}
+div
+{
+	display:inline-block;
+}
